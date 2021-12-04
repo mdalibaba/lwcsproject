@@ -12,7 +12,7 @@ Created 16 months ago • Report abuse
  Code
  Revisions 1
 <script src="https://gist.github.com/karkranikhil/13ac9d1fa0077f3334ba1eb448b6b396.js"></script>
-Salesforce JS 1 certification session 3  24 12 3 4 6 7 8 1 223 123453
+Salesforce JS 1 certification session 3  24 12 3 4 6 7 8 1 223 1234533
 API
 <!DOCTYPE html>
 <html>
