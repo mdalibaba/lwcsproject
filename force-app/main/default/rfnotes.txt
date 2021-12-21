@@ -13,7 +13,7 @@ Created 16 months ago • Report abuse
  Revisions 1
 <script src="https://gist.github.com/karkranikhil/13ac9d1fa0077f3334ba1eb448b6b396.js"></script>
 Salesforce JS 1 certification session 3  24 12 31 4 6 7 8 1 223 
-12345333455622221211112118231199
+123453334556222212111121182
 API
 <!DOCTYPE html>
 <html>
