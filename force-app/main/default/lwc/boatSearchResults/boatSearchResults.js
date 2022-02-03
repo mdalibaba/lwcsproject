@@ -7,7 +7,7 @@ import getBoats from '@salesforce/apex/BoatDataService.getBoats';
 import updateBoatList from '@salesforce/apex/BoatDataService.updateBoatList';
 import BOATMC from '@salesforce/messageChannel/BoatMessageChannel__c';
 
-const SUCCESS_TITLE = 'Success';
+const SUCCESS_TITLE = 'Success'; 
 const MESSAGE_SHIP_IT = 'Ship it!';
 const SUCCESS_VARIANT = 'success';
 const ERROR_TITLE = 'Error';
